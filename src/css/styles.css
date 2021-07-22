@@ -19,7 +19,7 @@ body {
 
 .flag {
   display: inline-block;
-  width: 30px;
+  width: 20px;
 }
 
 .countries-list__name {
@@ -39,7 +39,7 @@ body {
 }
 
 .country-flag {
-  width: 200px;
+  width: 150px;
   display: inline-block;
 }
 
